@@ -7,4 +7,6 @@ in others my aim was to try out different possibilities coming from a given appr
 
 To fully experience functionality of the projects I advise to use Google Chrome.
 
+Please be aware that this repository is still evolving, I'm contantly developing my projects.
+
 Thank you for visiting my repository and have a great day!
